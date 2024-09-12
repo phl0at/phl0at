@@ -7,14 +7,12 @@ I'm currently working on a nifty little build planner for the popular video game
 
   #My linkedIn
 <div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/phl0at/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </div>
 
   #BG3Builds
 <div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://bg3builds.onrender.com"/>
 <img src="https://cdn2.steamgriddb.com/icon/ab968680ad9fa9909541f1225dcf0711/32/48x48.png"/>
 </div>
