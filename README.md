@@ -11,7 +11,7 @@ Currently working on a nifty little build planner for the popular video game Bal
     <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </div>
 <br>
-> My favorite tools and technologies ⚙️
+  > My favorite tools and technologies ⚙️
 
 <table>
   <tr>
