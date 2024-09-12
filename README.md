@@ -1,16 +1,15 @@
+
+<p></p>
+<p align="justify">
+Welcome to my GitHub Page! I'm Max Fonda, a 
+</p>
+
 <div align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/phl0at/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 </div>
-
-<p></p>
-<p align="justify">
-Welcome to my GitHub Page! I'm Max Fonda, a 
-
-</p>
-
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
@@ -57,17 +56,9 @@ Welcome to my GitHub Page! I'm Max Fonda, a
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
-  </tr>
-   <tr>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
-    </td>
   </tr>
- <tr>
- </tr>
 </table>
