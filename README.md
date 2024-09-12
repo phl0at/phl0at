@@ -40,6 +40,7 @@ Currently working on a nifty little build planner for the popular video game Bal
     </td>
       <td align="center" width="96">
         <img width="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/>
+        <br>Flask
     </td>
     </td>
       <td align="center" width="96">
