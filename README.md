@@ -47,6 +47,10 @@ I'm currently working on a nifty little build planner for the popular video game
       <br>Docker
     </td>
     </td>
+      <td align="center" width="96">
+        <img width="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/>
+      <br>Flask
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
