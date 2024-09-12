@@ -11,7 +11,7 @@ Currently working on a nifty little build planner for the popular video game Bal
   </div>
 <br/>
       
-## My favorite tools and technologies ⚙️
+> My favorite tools and technologies ⚙️
 
 <table>
   <tr>
