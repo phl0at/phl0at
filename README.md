@@ -49,7 +49,6 @@ I'm currently working on a nifty little build planner for the popular video game
     </td>
       <td align="center" width="96">
         <img width="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/>
-      <br>Flask
     </td>
   </tr>
   <tr>
@@ -71,7 +70,7 @@ I'm currently working on a nifty little build planner for the popular video game
     </td>
     <td align="center" width="96">
         <img width="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/>
-      <br>Web Socket
+      <br>WebSocket
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
