@@ -2,16 +2,18 @@
 <p></p>
 <p align="justify">
 Welcome to my GitHub Page! I'm Max Fonda, an aspiring Web Developer and recent App Academy graduate!
-I'm currently working on a nifty little build planner for the popular video game Baldur's Gate 3, check it out along with my linkedIn!
+I'm currently working on a nifty little build planner for the popular video game Baldur's Gate 3!
 </p>
 
 <div>
+  #My linkedIn
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/phl0at/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </div>
 
 <div>
+  #BG3Builds
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://bg3builds.onrender.com"/>
 <img src="https://cdn2.steamgriddb.com/icon/ab968680ad9fa9909541f1225dcf0711/32/48x48.png"/>
